@@ -1,0 +1,48 @@
+.singlePost{
+    flex: 9;
+}
+
+.singlePostDesc{
+    color: #666;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.singlePostEdit{
+    float: right;
+    font-size: 16px;
+}
+
+.singlePostWrapper{
+    padding: 20px;
+    padding-right: 0%;
+}
+
+.singlePostIcon{
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.singlePostImg{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.singlePostInfo{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    color: #b39656;
+    font-family: "Roboto" , sans-serif;
+}
+
+.singlePostTitle{
+    text-align: center;
+    font-family: "Lora" , serif;
+    margin: 10px;
+    font-size: 28px;
+    font-style: normal;
+}
